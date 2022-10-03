@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Bashta  
-### Yevhenii 
-### YevheniiBashta 
+### Last Name: Bashta  
+### First Name: Yevhenii 
+### GitHub Username: YevheniiBashta 
 
 ---
 #### General Workflow: 
